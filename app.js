@@ -3,7 +3,7 @@
 
     var factory2 = new Service111();
 
-    angular.module('Ekzamen', [])
+    angular.module('Ekazamen', [])
         .controller('Controller', Controller)
         .factory('Factory', Factory);
 
